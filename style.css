@@ -4,9 +4,13 @@ body
     font-family: 'Roboto', sans-serif;
 }
 
-.title
+body
 {
     color: white;
+}
+
+.maintitle
+{
     text-align: center;
     display: block;
     margin: 0;
@@ -17,7 +21,7 @@ body
     transform: translate(-50%, -50%);
 }
 
-.title a
+.maintitle a
 {
     color: white;
 }
